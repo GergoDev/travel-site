@@ -14,6 +14,10 @@
         padding-right: 0;
     }
     
+    &--narrow {
+        max-width: 470px;
+    }
+    
     &--b-margin {
         margin-bottom: 1rem;
         
